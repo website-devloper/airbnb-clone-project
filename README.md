@@ -32,7 +32,7 @@ key entities</h3>
 </br><b>Payments</b>: total payment - discount - amount - booking_id (the payment belongs to one booking)
 </br><b>Reviews</b>: message - star_rate - property_id - user_id  (the review belongs to propertie and user)
 
-<h5>Relations (ERD style)</h5>
+<h3>Relations (ERD style)</h3>
  </br><b>User (1) —— (∞) Property
  </br>User (1) —— (∞) Booking
  </br>Property (1) —— (∞) Booking
