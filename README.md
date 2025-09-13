@@ -63,7 +63,7 @@ Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
 
-<h3>API security</h3>
+<h3>API Security</h3>
 Implement and document key security measures to safeguard application data and ensure secure transactions.
 
 
