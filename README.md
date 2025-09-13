@@ -67,4 +67,7 @@ Caching: Use caching strategies to reduce database load and improve performance.
 Implement and document key security measures to safeguard application data and ensure secure transactions.
 
 
+<h3>CI/CD Pipeline</h3>
 
+**Docker**: Containerization tool for consistent development and deployment environments.
+**CI/CD Pipelines**: Automated pipelines for testing and deploying code changes.using jenkins docker cloud and github
