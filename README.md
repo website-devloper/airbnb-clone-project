@@ -40,3 +40,22 @@ key entities</h3>
  </br>Property (1) —— (∞) Review
  </br>User (1) —— (∞) Review </b>
 
+
+<h3>Feature Breakdown</h3>
+Endpoints: /users/, /users/{user_id}/
+Features: Register new users, authenticate, and manage user profiles.
+3. Property Management
+Endpoints: /properties/, /properties/{property_id}/
+Features: Create, update, retrieve, and delete property listings.
+4. Booking System
+Endpoints: /bookings/, /bookings/{booking_id}/
+Features: Make, update, and manage bookings, including check-in and check-out details.
+5. Payment Processing
+Endpoints: /payments/
+Features: Handle payment transactions related to bookings.
+6. Review System
+Endpoints: /reviews/, /reviews/{review_id}/
+Features: Post and manage reviews for properties.
+7. Database Optimizations
+Indexing: Implement indexes for fast retrieval of frequently accessed data.
+Caching: Use caching strategies to reduce database load and improve performance.
