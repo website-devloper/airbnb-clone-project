@@ -42,20 +42,21 @@ key entities</h3>
 
 
 <h3>Feature Breakdown</h3>
+User Authentication
 Endpoints: /users/, /users/{user_id}/
-Features: Register new users, authenticate, and manage user profiles.
-</br>Property Management
+Features: Register new users, authenticate, and manage user profiles.</br>
+Property Management
 Endpoints: /properties/, /properties/{property_id}/
-Features: Create, update, retrieve, and delete property listings.
-</br>Booking System
+Features: Create, update, retrieve, and delete property listings.</br>
+Booking System
 Endpoints: /bookings/, /bookings/{booking_id}/
-Features: Make, update, and manage bookings, including check-in and check-out details.
-</br>Payment Processing
+Features: Make, update, and manage bookings, including check-in and check-out details.</br>
+Payment Processing
 Endpoints: /payments/
-Features: Handle payment transactions related to bookings.
-</br>Review System
+Features: Handle payment transactions related to bookings.</br>
+Review System
 Endpoints: /reviews/, /reviews/{review_id}/
-Features: Post and manage reviews for properties.
+Features: Post and manage reviews for properties.</br>
 
 </br>Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
