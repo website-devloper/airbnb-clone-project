@@ -22,3 +22,21 @@
 </br><b>Database Administrator</b>: Manages database design, indexing, and optimizations.
 </br><b>DevOps Engineer</b>: Handles deployment, monitoring, and scaling of the backend services.
 </br><b>QA Engineer</b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+
+<h3>Database Design</h3>
+<h5>key entities</h5>
+</br><b>Users</b>: name - username - password - gmail ( the user can have multiple properties)- (the user can book multiple time)
+</br><b>Properties</b>: image - name - price - area - user_id (properties belongs to only one user at a time) (properties can have multiple reviews )
+</br><b>Bookings</b>: id - user_id - property_id - tart_date- end_date- status  (the booking belongs to one user and one propertie)
+</br><b>Payments</b>: total payment - discount - amount - booking_id (the payment belongs to one booking)
+</br><b>Reviews</b>: message - star_rate - property_id - user_id  (the review belongs to propertie and user)
+
+<h5>Relations (ERD style)</h5>
+<b>User (1) —— (∞) Property
+User (1) —— (∞) Booking
+Property (1) —— (∞) Booking
+Booking (1) —— (1) Payment
+Property (1) —— (∞) Review
+User (1) —— (∞) Review </b>
+
