@@ -18,7 +18,7 @@
 
 
 <h3> 👥 Team Roles</h3>
-</br><b>Backend Developer></b>: Responsible for implementing API endpoints, database schemas, and business logic.
-</br><b>Database Administrator></b>: Manages database design, indexing, and optimizations.
-</br><b>DevOps Engineer></b>: Handles deployment, monitoring, and scaling of the backend services.
-</br><b>QA Engineer></b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+</br><b>Backend Developer</b>: Responsible for implementing API endpoints, database schemas, and business logic.
+</br><b>Database Administrator</b>: Manages database design, indexing, and optimizations.
+</br><b>DevOps Engineer</b>: Handles deployment, monitoring, and scaling of the backend services.
+</br><b>QA Engineer</b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
