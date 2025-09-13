@@ -13,5 +13,5 @@
 </br><b>GraphQL</b>: Allows for flexible and efficient querying of data.
 </br><b>Celery</b>: For handling asynchronous tasks such as sending notifications or processing payments.
 </br><b>Redis</b>: Used for caching and session management.
-</br><b>Docker</b>: Containerization tool for consistent development and deployment environments.
+</br><b>Docker</b>: Containerization tool for consistent development and deployment environments.</br>
 <b>CI/CD Pipelines</b>: Automated pipelines for testing and deploying code changes.
