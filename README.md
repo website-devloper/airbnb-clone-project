@@ -15,3 +15,10 @@
 </br><b>Redis</b>: Used for caching and session management.
 </br><b>Docker</b>: Containerization tool for consistent development and deployment environments.</br>
 <b>CI/CD Pipelines</b>: Automated pipelines for testing and deploying code changes.
+
+
+<h3> 👥 Team Roles</h3>
+</br><b>Backend Developer></b>: Responsible for implementing API endpoints, database schemas, and business logic.
+</br><b>Database Administrator></b>: Manages database design, indexing, and optimizations.
+</br><b>DevOps Engineer></b>: Handles deployment, monitoring, and scaling of the backend services.
+</br><b>QA Engineer></b>: Ensures the backend functionalities are thoroughly tested and meet quality standards.
