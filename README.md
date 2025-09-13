@@ -7,7 +7,7 @@
 <h3> Technology Stack</h3>
 
 <b>Django</b>: A high-level Python web framework used for building the RESTful API.
-<b>Django REST Framework</b>: Provides tools for creating and managing RESTful APIs.
+</br><b>Django REST Framework</b>: Provides tools for creating and managing RESTful APIs.
 <b>PostgreSQL</b>: A powerful relational database used for data storage.
 
 <b>GraphQL</b>: Allows for flexible and efficient querying of data.
